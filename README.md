@@ -76,8 +76,8 @@ This dashboard can be used by:
 ## 📸 Screenshots
 <table> 
 <tr>
-<td><img src="src/assets/Todo Ui1.png" width=480 alt="Loading Screen"></td>  
-<td><img src="src/assets/Added task ui1.png" width=480 alt="Screenshot 2"></td>
+<td><img src="Screen shots/Dashboard 1.png" width=480 alt="Loading Screen"></td>  
+<td><img src="Screen shots/Dashboard 2.png" width=480 alt="Screenshot 2"></td>
 </tr>
 </table>
 
